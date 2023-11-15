@@ -10,8 +10,8 @@ Objectif : Développeur Web débutant cherchant à acquérir de l'expérience da
 - Titre professionnel du Ministère du Travail de niveau 5 (BTS/DUT) de Développeur Web et Web mobile - AFPA | Brest - En cours | 2023
 
 # Compétences techniques (Débutant):
-- Langages de programmation : HTML, CSS, JavaScript, PHP
-- Frameworks : Bootstrap, jQuery, Symfony
+- Langages de programmation : HTML, CSS, JavaScript, PHP, Node, JQuery
+- Frameworks : Bootstrap, Symfony, Vue
 - Outils de développement : Visual Studio Code
 - Conception responsive
 - Résolution de problèmes
